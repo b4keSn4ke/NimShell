@@ -10,5 +10,5 @@ or if you prefer building for a specific platform you can use the following comm
 ```nim c --app:gui -d:mingw nimshell.nim```
 
 #### Compile From Linux to Linux :
-```nim c --app:gui -d:release shell.nim```
+```nim c --app:gui -d:release nimshell.nim```
 
