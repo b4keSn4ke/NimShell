@@ -1,7 +1,7 @@
 # To Compile From Linux to Windows : 
 # nim c --app:gui -d:mingw nimshell.nim
 # To Compile From Linux to Linux :
-# nim c --app:gui -d:release shell.nim
+# nim c --app:gui -d:release nimshell.nim
 
 import net
 import osproc
